@@ -1,3 +1,3 @@
-git clone $REPO_URL norbe && cd norbe
+git clone $REPO_URL amaze && cd amaze
 pip3 install -U -r requirements.txt
 $START_CMD
