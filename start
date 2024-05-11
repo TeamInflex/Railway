@@ -1,3 +1,3 @@
-git clone $REPO_URL FallenMusicBot && cd FallenMusicBot
+git clone $REPO_URL MusicVibeBot && cd MusicVibeBot
 pip3 install -U -r requirements.txt
 $START_CMD
